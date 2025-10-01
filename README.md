@@ -1,6 +1,6 @@
 # jpa01-TejTripathyUCSB
 
-Deployed at: https://jpa01-tejtripathyucsb.dokku-12.cs.ucsb.edu
+Deployed at: https://TejTripathyUCSB.dokku-12.cs.ucsb.edu/swagger-ui/index.html
 
 
 # About this repo
