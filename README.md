@@ -1,6 +1,6 @@
 # jpa01-TejTripathyUCSB
 
-Deployed at: https://TejTripathyUCSB.dokku-12.cs.ucsb.edu
+https://TejTripathyUCSB.dokku-12.cs.ucsb.edu
 
 
 # About this repo
